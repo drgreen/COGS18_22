@@ -1,4 +1,4 @@
-# COGS18_22
+# README
 
 Project forked from https://github.com/drgreen/COGS18_22
 
